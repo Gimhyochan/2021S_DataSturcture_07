@@ -3,7 +3,7 @@
 
 #### Instructor
 
-rohnugh
+rohnugu
 
 #### Mentor
 
