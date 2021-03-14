@@ -1,5 +1,5 @@
 # DataStructure
-### AICS201-20S Group 7
+### Group 7
 
 #### Instructor
 
@@ -9,4 +9,11 @@ rohnugu
 
 gun7992, hikhikhomuri, cujs
 
+#### Document lists
 
+###### 1. Exercise_Makefile
+Test environment compiling c++ using "make"
+
+---------------------------------------------------
+object files(*.o) and executable files (*.out) not included
+(READ .gitignore)
