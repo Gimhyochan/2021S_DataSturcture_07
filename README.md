@@ -15,5 +15,5 @@ gun7992, hikhikhomuri, cujs
 Test environment compiling c++ using "make"
 
 ---------------------------------------------------
-object files(*.o) and executable files (*.out) not included
+object files(*.o) and executable files (*.out, *.exe) not included
 (READ .gitignore)
